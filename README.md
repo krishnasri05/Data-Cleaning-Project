@@ -1,2 +1,21 @@
-# Data-Cleaning-Project
-A Python project for cleaning and visualizing data using Pandas, Matplotlib, and Seaborn. This project includes handling missing values, removing duplicates, and generating insightful charts from the Titanic dataset.
+# Data Cleaning & Visualization Project
+
+## Objective
+Clean and visualize raw data using Python.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Features
+- Missing value handling
+- Duplicate removal
+- Data visualization
+
+## Dataset
+Titanic Dataset
+
+## Output
+Generated graphs and insights from cleaned data.
